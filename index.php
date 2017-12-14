@@ -69,12 +69,6 @@ $calc = new Calculator();
                 <button id="btn-equal"type="button" class="btn btn-success btn-calc-f">=</button>
                 <button id="btn-divide" type="button" class="btn btn-primary btn-calc-f">/</button>
             </div> 
-            <div class="btn-group">
-                <button id="btn-sterge" type="button" class="btn btn-danger btn-calc-f">C</button>
-                <button id="btn-0"type="button" class="btn btn-default btn-calc">0</button>
-                <button id="btn-equal"type="button" class="btn btn-success btn-calc-f">=</button>
-                <button id="btn-divide" type="button" class="btn btn-primary btn-calc-f">/</button>
-            </div>
             </form>
         </div>
         
