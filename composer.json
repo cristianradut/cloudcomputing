@@ -1,0 +1,19 @@
+{
+    "name": "root/cloudcomp",
+    "description": "simple calculator",
+    "type": "project",
+    "authors": [
+        {
+            "name": "cristianradut",
+            "email": "radutc@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Calc\\":"src/"
+        }
+    }
+}
